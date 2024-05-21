@@ -10,8 +10,7 @@
 Dead Mand Switch project (V 1.0) is an interactive cross-platform python script that will create an AWS lambda function that will monitor periodically cloudtrails for your console logins. Each run will send you a task notification (success/failed) and in case of missing login for the specified time range the dead man switch will activate and send the messages to the chosen recipients.
 	
 ## Requirements
-
-* Python 3
+<img src="images/55ACE392-952F-4688-86E0-F4B8BC725C03.gif" width="300" />
 * boto3
 * regex
 * pip3
