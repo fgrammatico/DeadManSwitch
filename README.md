@@ -11,6 +11,7 @@ Dead Mand Switch project (V 1.0) is an interactive cross-platform python script 
 	
 ## Requirements
 <img src="images/55ACE392-952F-4688-86E0-F4B8BC725C03.gif" width="300" />
+
 * boto3
 * regex
 * pip3
